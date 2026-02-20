@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+// Function prototype
+void greet();
+
+int main()
+{
+    greet();
+    return 0;
+}
+
+void greet()
+{
+    printf("Hello Student!\n");
+}
